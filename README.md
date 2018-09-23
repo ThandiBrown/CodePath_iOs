@@ -1,8 +1,7 @@
 # CodePath_iOs
 Pre-work assignment for CodePath iOS
 
-## NAME_OF_YOUR_APP_HERE
-MadDemoProject
+## MadDemoProject
 
 ### App Description
 Add text to labels as well as change text and background colors
