@@ -2,6 +2,7 @@
 Pre-work assignment for CodePath iOS
 
 ## NAME_OF_YOUR_APP_HERE
+MadDemoProject
 
 ### App Description
 `TODO://` Add app description
@@ -9,7 +10,7 @@ Pre-work assignment for CodePath iOS
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://recordit.co/MvEFOu14SD" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
@@ -27,3 +28,4 @@ Pre-work assignment for CodePath iOS
    - [x] b. User can tap the "Change text string" button to update the label with the text from the text field.
    - [x] c. If the text field is empty, update label with default text string.
    - [x] d. The keyboard is dismissed after the button has been tapped. 
+
